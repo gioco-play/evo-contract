@@ -1,0 +1,17 @@
+{
+    "name": "gioco-plus/evo-contract",
+    "description": "evo interface",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "GiocoPlus\\EVO\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "q",
+            "email": "q.wong@goldenf.co"
+        }
+    ],
+    "require": {}
+}
